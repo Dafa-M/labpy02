@@ -79,6 +79,11 @@ Jika operator Pembagian ada dua hal
 Langkah terakhir buat output untuk menampilkan hasil dari perhitungan :
 ![gambar1](ss/p.png)
 
+### Step 5 : Uji Code Program
+Uji code program dengan menginputkan angka1 = 90, dan angka2 = 15 dengan operator perkalian (*) :
+![gambar1](ss/kal.png)
+
+
 
 ## FLOWCHART KALKULATOR SEDERHANA
 
